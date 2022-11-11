@@ -1,0 +1,27 @@
+
+
+.container{
+    background-color: antiquewhite;
+    padding: 20px;
+    height: auto;
+
+}
+
+
+.title{
+    background-color: aliceblue;
+    text-align: center;
+    width: auto;
+    font-size: 1.5rem;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.myform{
+    background-color: aliceblue;
+    padding: 20px;
+    margin-top: 20px;
+    height: auto;
+    border-radius: 10px;
+    
+}
